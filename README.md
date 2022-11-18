@@ -1,3 +1,9 @@
+
+<html>
+  <head></head>
+  <body></body>
+</html>
+
 - 👋 Hi, I’m Jeiya @jmarie-s
 - 👀 I’m currently interested in learning about software development, specifically frontend and backend.
 - 🌱 I’m currently learning: ReactJS, HTML, CSS, Javascript, SQL, Python and C#
