@@ -9,8 +9,7 @@ You can click the Preview link to take a look at your changes.
   <h3 align="center"> Exploring and learning about software development </h3>
   <hr>
 </div>
-<div>
-  <h3>About me</h3>
+<h3>About me</h3>
 - 👀 Interested in learning about **web development - frontend and backend.**
 - 💬 Ask me about:
         **HTML
@@ -22,13 +21,12 @@ You can click the Preview link to take a look at your changes.
         - Javascript
         - C#**
 - 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/jeiya-marie-s-12541b188)**
-</div>
 <div>
   <h3>Languages and Tools</h3>
     <img src="/images/html_css_js.png" alt="htmlCssJs" width="100" height="50">
     <img src="/images/python.png" alt="python" width="100" height="50">
     <img src="/images/sql.png" alt="sql" width="100" height="50">
-    <img src="/images/c#.svg" alt="c#" width="100" height="50">
+    <img src="/images/c#.png" alt="c#" width="100" height="50">
     <img src="/images/docker.png" alt="docker" width="100" height="50">
   
   <h3>Certifications</h3>
