@@ -34,8 +34,7 @@ You can click the Preview link to take a look at your changes.
     <img src="/images/docker.png" alt="docker" width="80" height="60">
   
   <h3 align="left">Certifications</h3>
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="53fe4f3a-7989-48c2-8187-c01583126263" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-  
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="53fe4f3a-7989-48c2-8187-c01583126263" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   <h3 align="left">Some statistics</h3>
 </div>
 
