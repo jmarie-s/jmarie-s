@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 <div>
   <hr>
   <h3 align="left">Statistics</h3>
-  [![Jeiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmarie&ndashs)](https://github.com/anuraghazra/github-readme-stats)
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jmarie-s)](https://git.io/awesome-stats-card)
 </div>
  
 
