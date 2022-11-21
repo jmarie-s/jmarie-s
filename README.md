@@ -6,13 +6,13 @@
 - 👀 Interested in learning about **web development - frontend and backend.**
 
 - 💬 Ask me about:
-        - **HTML
+        **HTML
         - CSS
         - Python
         - SQL**
 
 - 🌱 I’m currently learning: 
-        - **ReactJS
+        **ReactJS
         - Javascript
         - C# **
 
