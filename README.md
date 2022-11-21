@@ -28,8 +28,8 @@ You can click the Preview link to take a look at your changes.
   <hr>
   <h3 align="left">Languages and Tools</h3>
     <img src="/images/html_css_js.png" alt="htmlCssJs" width="130" height="60">
-    <img src="/images/python.png" alt="python" width="80" height="60">
-    <img src="/images/sql.png" alt="sql" width="80" height="60">
+    <img src="/images/python.png" alt="python" width="70" height="60">
+    <img src="/images/sql.png" alt="sql" width="70" height="60">
     <img src="/images/cSharp.png" alt="c#" width="80" height="60">
     <img src="/images/docker.png" alt="docker" width="80" height="60">
   <hr>
