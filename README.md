@@ -38,6 +38,6 @@ You can click the Preview link to take a look at your changes.
   <hr>
   <h3 align="left">Statistics</h3>
  </div>
-  [![Jeiya GitHub stats](https://github-readme-stats.vercel.app/api?username=jmarie-s)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
 
