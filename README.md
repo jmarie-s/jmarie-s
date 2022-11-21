@@ -12,7 +12,7 @@
         - SQL**
 
 - 🌱 I’m currently learning: 
-        **ReactJS
+        ** ReactJS
         - Javascript
         - C# **
 
