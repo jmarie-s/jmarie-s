@@ -32,12 +32,17 @@ You can click the Preview link to take a look at your changes.
     <img src="/images/sql.png" alt="sql" width="70" height="60">
     <img src="/images/cSharp.png" alt="c#" width="70" height="60">
     <img src="/images/docker.png" alt="docker" width="70" height="60">
+</div>
+<div>
   <hr>
   <h3 align="left">Certifications</h3>
 <!-- to automate adding badges-->
+</div>
+<div>
   <hr>
   <h3 align="left">Statistics</h3>
- </div>
+  [![Jeiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmarie-s)](https://github.com/anuraghazra/github-readme-stats)
+</div>
  
 
 
