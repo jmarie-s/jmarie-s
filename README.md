@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 <div>
   <h3>Languages and Tools:</h3>
-  <img src="/images/html_css_js.png" alt="HtmlCssJs" width="25" height="50">
+  <img src="/images/html_css_js.png" alt="HtmlCssJs" width="100" height="50">
   
   <h3>Certifications:</h3>
   
