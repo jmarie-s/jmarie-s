@@ -32,10 +32,10 @@ You can click the Preview link to take a look at your changes.
     <img src="/images/sql.png" alt="sql" width="80" height="60">
     <img src="/images/cSharp.png" alt="c#" width="80" height="60">
     <img src="/images/docker.png" alt="docker" width="80" height="60">
-  
+  <hr>
   <h3 align="left">Certifications</h3>
 <!-- to automate adding badges-->
-  
-    <h3 align="left">Some statistics</h3>
+  <hr>
+  <h3 align="left">Statistics</h3>
 </div>
 
