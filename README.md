@@ -7,7 +7,6 @@ You can click the Preview link to take a look at your changes.
 <div>
   <h1 align="center">👋 Hi, I’m Jeiya @jmarie-s </h1>
   <h3 align="center"> Exploring and learning about software development </h3>
-  <hr>
 </div>
 
 - 👀 Interested in learning about **web development - frontend and backend.**
@@ -26,6 +25,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/jeiya-marie-s-12541b188)**
 
 <div align="center">
+  <hr>
   <h3 align="left">Languages and Tools</h3>
     <img src="/images/html_css_js.png" alt="htmlCssJs" width="130" height="60">
     <img src="/images/python.png" alt="python" width="80" height="60">
