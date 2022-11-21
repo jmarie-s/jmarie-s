@@ -28,12 +28,12 @@ You can click the Preview link to take a look at your changes.
   <h3 align="left">Languages and Tools</h3>
     <img src="/images/html_css_js.png" alt="htmlCssJs" width="100" height="50">
     <img src="/images/python.png" alt="python" width="100" height="60">
-    <img src="/images/sql.png" alt="sql" width="100" height="50">
-    <img src="/images/cSharp.png" alt="c#" width="100" height="50">
-    <img src="/images/docker.png" alt="docker" width="100" height="50">
+    <img src="/images/sql.png" alt="sql" width="100" height="60">
+    <img src="/images/cSharp.png" alt="c#" width="100" height="60">
+    <img src="/images/docker.png" alt="docker" width="100" height="60">
   
-  <h3>Certifications</h3>
+  <h3 align="left">Certifications</h3>
   
-  <h3>Some statistics</h3>
+  <h3 align="left">Some statistics</h3>
 </div>
 
