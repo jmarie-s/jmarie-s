@@ -37,6 +37,6 @@ You can click the Preview link to take a look at your changes.
 <!-- to automate adding badges-->
   <hr>
   <h3 align="left">Statistics</h3>
-    [![Jeiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmarie-s)](https://github.com/anuraghazra/github-readme-stats)]
+  ![Jeiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmarie-s)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
