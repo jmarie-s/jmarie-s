@@ -12,9 +12,9 @@
         - SQL**
 
 - 🌱 I’m currently learning: 
-        ** ReactJS
+        **ReactJS
         - Javascript
-        - C# **
+        - C#**
 
 - 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/jeiya-marie-s-12541b188)**
 
