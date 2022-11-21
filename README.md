@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
         - CSS
         - Python
         - SQL**
-        -
+        
 - 🌱 I’m currently learning: 
         **ReactJS
         - Javascript
