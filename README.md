@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 <div>
   <h3>Languages and Tools:</h3>
-  <img src="https://www.flaticon.com/free-icon/html-5_732212" alt="HTML" width="500" height="5
+  <img src="html_css_js icon.png" alt="HtmlCssJs" width="500" height="5
   
   <h3>Certifications:</h3>
   
