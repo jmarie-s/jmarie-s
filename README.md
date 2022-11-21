@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 <div>
   <hr>
   <h3 align="left">Statistics</h3>
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jmarie-s?cardType=github)](https://git.io/awesome-stats-card)
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github">    <img  alt="jmarie-s's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/jmarie-s?cardType=github" />  </a>
 </div>
  
 
