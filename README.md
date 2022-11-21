@@ -24,6 +24,7 @@ You can click the Preview link to take a look at your changes.
         - C#**
         
 - 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/jeiya-marie-s-12541b188)**
+
 <div align="center">
   <h3 align="left">Languages and Tools</h3>
     <img src="/images/html_css_js.png" alt="htmlCssJs" width="130" height="60">
@@ -33,6 +34,7 @@ You can click the Preview link to take a look at your changes.
     <img src="/images/docker.png" alt="docker" width="80" height="60">
   
   <h3 align="left">Certifications</h3>
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="53fe4f3a-7989-48c2-8187-c01583126263" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   
   <h3 align="left">Some statistics</h3>
 </div>
