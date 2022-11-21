@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 <div>
   <h3>Languages and Tools</h3>
     <img src="/images/html_css_js.png" alt="htmlCssJs" width="100" height="50">
-    <img src="/images/python.png" alt="python" width="100" height="50">
+    <img src="/images/python.png" alt="python" width="100" height="60">
     <img src="/images/sql.png" alt="sql" width="100" height="50">
     <img src="/images/cSharp.png" alt="c#" width="100" height="50">
     <img src="/images/docker.png" alt="docker" width="100" height="50">
