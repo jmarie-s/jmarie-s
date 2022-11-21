@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
     <img src="/images/docker.png" alt="docker" width="80" height="60">
   
   <h3 align="left">Certifications</h3>
-<-- to automate adding badges-->
+<!-- to automate adding badges-->
   
     <h3 align="left">Some statistics</h3>
 </div>
