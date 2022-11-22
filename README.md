@@ -36,7 +36,8 @@ You can click the Preview link to take a look at your changes.
 <div>
   <hr>
   <h3 align="left">Certifications</h3>
-  <!-- to automate adding badges-->
+  <!--START_SECTION:badges-->
+  <!--END_SECTION:badges-->
 </div>
 <div>
   <hr>
