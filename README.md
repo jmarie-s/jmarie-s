@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
         
 - 🌱 I’m currently learning: 
         **ReactJS
-        - Javascript
+        - JavaScript
         - C#**
         
 - 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/jeiya-marie-s-12541b188)**
