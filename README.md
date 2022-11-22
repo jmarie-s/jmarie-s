@@ -15,10 +15,10 @@ You can click the Preview link to take a look at your changes.
 <div>
   <br/>
   <ul>
-    <li>👀 Interested in learning about **web development - frontend and backend.**</li>
-    <li>💬 Ask me about: **HTML - CSS - Python - SQL**</li>
-    <li>🌱 I’m currently learning: **ReactJS - JavaScript - C#**</li>
-    <li>📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/jeiya-marie-s-12541b188)**</li>
+    <li>👀 Interested in learning about <strong>web development - frontend and backend.</strong></li>
+    <li>💬 Ask me about: <strong>HTML - CSS - Python - SQL</strong></li>
+    <li>🌱 I’m currently learning: <strong>ReactJS - JavaScript - C#</strong></li>
+    <li>📫 Connect with me on <strong><a href="https://www.linkedin.com/in/jeiya-marie-s-12541b188"><p>LinkedIn</p></a></strong></li>
   </ul>
 </div>
 <div align="center">
