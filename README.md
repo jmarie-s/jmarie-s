@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 <div>
   <hr>
   <h3 align="left">Statistics</h3>
-      <a href="https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true"><img alt="jmarie-s's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true"/></a>
+      <a href="https://github-readme-stats.vercel.app/api?username=jmarie-s&count_private=true&theme=apprentice"><img alt="jmarie-s's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=jmarie-s&count_private=true&theme=apprentice"/></a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jmarie-s&layout=compact&theme=apprentice"><img alt="jmarie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmarie-s&layout=compact&theme=apprentice"/></a>
 </div>
 
