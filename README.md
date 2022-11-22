@@ -4,11 +4,12 @@ jmarie-s/jmarie-s is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<div>
-  <h1 align="center">👋 Hi, I’m Jeiya @jmarie-s </h1>
-  <h3 align="center"> Exploring and learning about software development </h3>
+<div align="center">
+  <h1>👋 Hi, I’m Jeiya @jmarie-s </h1>
+  <h3> Exploring and learning about software development </h3>
   <div>
     <a href="https://visitor-badge.laobi.icu/badge?page_id=jmarie-s.jmarie-s"><img alt="jmarie-s's visitors (not unique)" src="https://visitor-badge.laobi.icu/badge?page_id=jmarie-s.jmarie-s"/></a>
+    <a href="https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social"><img alt="jmarie's followers" src="https://github.com/CharalambosIoannou"></a>
   </div>
 </div>
 
