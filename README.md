@@ -12,22 +12,14 @@ You can click the Preview link to take a look at your changes.
     <a href="https://img.shields.io/github/followers/jmarie-s?label=Follow&style=social"><img alt="jmarie's followers" src="https://img.shields.io/github/followers/jmarie-s?label=Follow&style=social"></a>
   </div>
 </div>
-
-- 👀 Interested in learning about **web development - frontend and backend.**
-
-- 💬 Ask me about:
-        **HTML
-        - CSS
-        - Python
-        - SQL**
-        
-- 🌱 I’m currently learning: 
-        **ReactJS
-        - JavaScript
-        - C#**
-        
-- 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/jeiya-marie-s-12541b188)**
-
+<div>
+  <ul>
+    <li>👀 Interested in learning about **web development - frontend and backend.**</li>
+    <li>💬 Ask me about: **HTML - CSS - Python - SQL**</li>
+    <li>🌱 I’m currently learning: **ReactJS - JavaScript - C#**</li>
+    <li>📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/jeiya-marie-s-12541b188)**</li>
+  </ul>
+</div>
 <div align="center">
   <hr>
   <h3 align="left">Languages and Tools</h3>
