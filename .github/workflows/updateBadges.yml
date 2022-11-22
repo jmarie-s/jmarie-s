@@ -12,7 +12,3 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
-        with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          COMMIT_MESSAGE: "Adding new badge"
-          CREDLY_SORT: POPULAR
