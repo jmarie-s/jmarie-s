@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
   <h3 align="center"> Exploring and learning about software development </h3>
 </div>
 
-![View count](https://visitor-badge.laobi.icu/badge?page_id=jmarie-s.jmarie-s)
+![](https://visitor-badge.laobi.icu/badge?page_id=jmarie-s.jmarie-s)
 
 - 👀 Interested in learning about **web development - frontend and backend.**
 
