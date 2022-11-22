@@ -7,9 +7,10 @@ You can click the Preview link to take a look at your changes.
 <div>
   <h1 align="center">👋 Hi, I’m Jeiya @jmarie-s </h1>
   <h3 align="center"> Exploring and learning about software development </h3>
+  <div>
+    <a href="https://visitor-badge.laobi.icu/badge?page_id=jmarie-s.jmarie-s"><img alt="jmarie-s's visitors (not unique)" src="https://visitor-badge.laobi.icu/badge?page_id=jmarie-s.jmarie-s"/></a>
+  </div>
 </div>
-
-![](https://visitor-badge.laobi.icu/badge?page_id=jmarie-s.jmarie-s)
 
 - 👀 Interested in learning about **web development - frontend and backend.**
 
