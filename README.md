@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
     <li>👀 Interested in learning about <strong>web development - frontend and backend.</strong></li>
     <li>💬 Ask me about: <strong>HTML - CSS - Python - SQL</strong></li>
     <li>🌱 I’m currently learning: <strong>ReactJS - JavaScript - C#</strong></li>
-    <li>📫 Connect with me on: <strong><a align="center" href="https://www.linkedin.com/in/jeiya-marie-s-12541b188"><p>LinkedIn</p></a></strong></li>
+    <li>📫 Connect with me on: <strong><a align="center" href="https://www.linkedin.com/in/jeiya-marie-s-12541b188"><p>LinkedIn</p></a></strong</li>
   </ul>
 </div>
 <div align="center">
