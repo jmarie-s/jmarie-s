@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
   </div>
 </div>
 <div>
+  <br/>
   <ul>
     <li>👀 Interested in learning about **web development - frontend and backend.**</li>
     <li>💬 Ask me about: **HTML - CSS - Python - SQL**</li>
