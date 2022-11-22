@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
   <h3> Exploring and learning about software development </h3>
   <div>
     <a href="https://visitor-badge.laobi.icu/badge?page_id=jmarie-s.jmarie-s"><img alt="jmarie-s's visitors (not unique)" src="https://visitor-badge.laobi.icu/badge?page_id=jmarie-s.jmarie-s"/></a>
-    <a href="https://img.shields.io/github/followers/jmarie-s?label=Follow&style=social"><img alt="jmarie's followers" src="https://github.com/jmarie-s"></a>
+    <a href="https://img.shields.io/github/followers/jmarie-s?label=Follow&style=social"><img alt="jmarie's followers" src="https://img.shields.io/github/followers/jmarie-s?label=Follow&style=social"></a>
   </div>
 </div>
 
