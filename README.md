@@ -36,11 +36,11 @@ You can click the Preview link to take a look at your changes.
 <div>
   <hr>
   <h3 align="left">Certifications</h3>
-<!-- to automate adding badges-->
+  <!-- to automate adding badges-->
 </div>
 <div>
   <hr>
   <h3 align="left">Statistics</h3>
-      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark">    <img  alt="jmarie-s's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/jmarie-s?cardType=github&theme=github-dark" />  </a>
+      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark"><img alt="jmarie-s's GitHub Stats"  src="https://awesome-github-stats.azurewebsites.net/user-stats/jmarie-s?cardType=github&theme=github-dark"/></a>
 </div>
  
