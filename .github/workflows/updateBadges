@@ -1,11 +1,11 @@
-name: Update badge
+name: Update badges
 
 on:
   schedule:
-  #Run at 0am UTC every day
-  - cron: "0 0 * * *"
-  
- jobs:
+  #Run at 10am UTC every day
+  - cron: "0 10 * * *"
+
+jobs:
   update-readme:
     name: Update Readme with badges
     runs-on: ubuntu-latest
@@ -15,5 +15,4 @@ on:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_MESSAGE: "Adding new badge"
-          CREDLY_USER: 
-          CREDLY_SORT POPULAR
+          CREDLY_SORT: POPULAR
