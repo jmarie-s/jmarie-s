@@ -21,9 +21,10 @@ You can click the Preview link to take a look at your changes.
     <li>📫 Connect with me on: </li>
   </ul>
   <div align="center">
-    <a align="center" href="https://www.linkedin.com/in/jeiya-marie-s-12541b188"><img src="/images/linkedIn.png" alt="linkedInLogo" width="70" height="60"></a>
-    <a align="center" href=""><img src="/images/dev.png" alt="devLogo" width="70" height="60"></a>
-    <p>Note: Dev blog coming soon!</p>
+    <a href="https://www.linkedin.com/in/jeiya-marie-s-12541b188"><img src="/images/linkedIn.png" alt="linkedInLogo" width="70" height="60"></a>
+    <br/>
+    <a href=""><img src="/images/dev.png" alt="devLogo" width="70" height="60"></a>
+    <p><strong>Note:</strong> Dev blog coming soon!</p>
   </div>
 </div>
 <div align="center">
