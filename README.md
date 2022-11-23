@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
   <h3 align="left">Certifications</h3>
   <!--START_SECTION:badges-->
   <!--END_SECTION:badges-->
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="53fe4f3a-7989-48c2-8187-c01583126263" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <a href="https://www.credly.com/badges/53fe4f3a-7989-48c2-8187-c01583126263/public_url">GitHub Actions</a>
 </div>
 <div align="left">
   <hr>
