@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
   <div align="center">
     <a href="https://www.linkedin.com/in/jeiya-marie-s-12541b188"><img src="/images/linkedIn.png" alt="linkedInLogo" width="70" height="60"></a>
     &nbsp
-    <a href=""><img src="/images/dev.png" alt="devLogo" width="70" height="60"></a>
+    <a href="https://dev.to/jmaries"><img src="/images/dev.png" alt="devLogo" width="70" height="60"></a>
     <p><strong>Note:</strong> Dev blog coming soon!</p>
   </div>
 </div>
