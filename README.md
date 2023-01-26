@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <h1>👋 Hi, I’m Jeiya @jmarie-s </h1>
-  <h3> Exploring and learning about software development </h3>
+  <h3> Exploring and learning about software development and utilising tools</h3>
   <!-- 
       <a href="https://visitor-badge.laobi.icu/badge?page_id=jmarie-s.jmarie-s"><img alt="jmarie-s's visitors (not unique)" src="https://visitor-badge.laobi.icu/badge?page_id=jmarie-s.jmarie-s"/></a>
   -->
@@ -18,7 +18,8 @@ You can click the Preview link to take a look at your changes.
     <li>👀 Interested in learning about:
     <!--<strong>web development - frontend and backend.</strong></li> -->
     <div>
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CSharp"/>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
+      <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="RasberryPI"/>
     </div>
     <li>💬 Ask me about: 
 <!--       <strong>HTML - CSS - JavaScript - SQL</strong></li> -->
@@ -32,10 +33,17 @@ You can click the Preview link to take a look at your changes.
 <!--       <strong>ReactJS - Python - C#</strong></li> -->
     <div>
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CSharp"/>
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
-                                                                                                                "/>
-      
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>                                                                                                                  
     </div>
+    <li>💻 Have some experience using:</li>
+    <div>
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="JIRA"/>
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB"/>
+      <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="VirtualBox" />
+       <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/>
+      <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" alt="MIRO"/>
+    </div>
+    
     <li>📫 Connect with me on: </li>
   </ul>
   <div align="center">
