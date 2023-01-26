@@ -16,8 +16,8 @@ You can click the Preview link to take a look at your changes.
   <br/>
   <ul>
     <li>👀 Interested in learning about <strong>web development - frontend and backend.</strong></li>
-    <li>💬 Ask me about: <strong>HTML - CSS - Python - SQL</strong></li>
-    <li>🌱 I’m currently learning: <strong>ReactJS - JavaScript - C#</strong></li>
+    <li>💬 Ask me about: <strong>HTML - CSS - JavaScript - SQL</strong></li>
+    <li>🌱 I’m currently learning: <strong>ReactJS - Python - C#</strong></li>
     <li>📫 Connect with me on: </li>
   </ul>
   <div align="center">
