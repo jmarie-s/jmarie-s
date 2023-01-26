@@ -19,6 +19,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
     <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="RasberryPI"/>
   </div>
+  <br />
   <p>💬 Ask me about:</p>
 <!--       <strong>HTML - CSS - JavaScript - SQL</strong></li> -->
   <div>
@@ -27,13 +28,14 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS"/>
     <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
   </div>
-  <li>🌱 I’m currently learning: 
-<!--       <strong>ReactJS - Python - C#</strong></li> -->
+  </br>
+  <p>🌱 I’m currently learning:</p>
   <div>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CSharp"/>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>                                                                                                                  
   </div>
-  <li>💻 Have some experience using:</li>
+  </br>
+  <p>💻 Have some experience using:</p>
   <div>
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="JIRA"/>
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB"/>
@@ -43,12 +45,13 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"/>
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio"/>
   </div>
- 
+  </br>
   <p>📫 Connect with me on: </p>
   <div align="center">
     <a href="https://www.linkedin.com/in/jeiya-marie-s-12541b188"><img src="/images/linkedIn.png" alt="linkedInLogo" width="70" height="60"></a>
     &nbsp
     <a href="https://dev.to/jmaries"><img src="/images/dev.png" alt="devLogo" width="70" height="60"></a>
+    </br>
     <p><strong>Note:</strong> Dev blog coming soon!</p>
   </div>
 </div>
