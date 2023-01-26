@@ -60,11 +60,21 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <hr>
   <h3 align="left">Recommended learning resources</h3>
-    <img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white" alt="codingame"/>
-    <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp"/>
-    <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDNWebDocs"/>
-    <img src="https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white" alt="Pluralsight"/>
-    <img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" alt="Scrimba"/>
+    <div>
+      <img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white" alt="codingame"/>
+    </div>
+    <div>
+      <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp"/>
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDNWebDocs"/>
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white" alt="Pluralsight"/>
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" alt="Scrimba"/>
+    </div>
 </div>
 <div>
   <hr>
