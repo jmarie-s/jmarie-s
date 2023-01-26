@@ -27,12 +27,14 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS"/>
     <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   </div>
   </br>
   <p>🌱 I’m currently learning:</p>
   <div>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CSharp"/>
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>                                                                                                                  
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/ alt="Postgresql"/>
   </div>
   </br>
   <p>💻 Have some experience using:</p>
@@ -58,12 +60,12 @@ You can click the Preview link to take a look at your changes.
 </div>
 <div align="center">
   <hr>
-  <h3 align="left">Languages and Tools</h3>
-    <img src="/images/html_css_js.png" alt="htmlCssJs" width="140" height="60">
+  <h3 align="left">Recommended Learning resources</h3>
+<!--     <img src="/images/html_css_js.png" alt="htmlCssJs" width="140" height="60">
     <img src="/images/python.png" alt="python" width="70" height="60">
     <img src="/images/sql.png" alt="sql" width="70" height="60">
     <img src="/images/cSharp.png" alt="c#" width="70" height="60">
-    <img src="/images/docker.png" alt="docker" width="70" height="60">
+    <img src="/images/docker.png" alt="docker" width="70" height="60"> -->
 </div>
 <div>
   <hr>
