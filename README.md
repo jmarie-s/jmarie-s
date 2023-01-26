@@ -18,10 +18,24 @@ You can click the Preview link to take a look at your changes.
     <li>👀 Interested in learning about:
     <!--<strong>web development - frontend and backend.</strong></li> -->
     <div>
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CSharp"/>
     </div>
-    <li>💬 Ask me about: <strong>HTML - CSS - JavaScript - SQL</strong></li>
-    <li>🌱 I’m currently learning: <strong>ReactJS - Python - C#</strong></li>
+    <li>💬 Ask me about: 
+<!--       <strong>HTML - CSS - JavaScript - SQL</strong></li> -->
+    <div>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS"/>
+      <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
+    </div>
+    <li>🌱 I’m currently learning: 
+<!--       <strong>ReactJS - Python - C#</strong></li> -->
+    <div>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CSharp"/>
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
+                                                                                                                "/>
+      
+    </div>
     <li>📫 Connect with me on: </li>
   </ul>
   <div align="center">
