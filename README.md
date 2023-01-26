@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
   <ul>
     <li>👀 Interested in learning about:
     <!--<strong>web development - frontend and backend.</strong></li> -->
-      <img src="{https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white}"/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <li>💬 Ask me about: <strong>HTML - CSS - JavaScript - SQL</strong></li>
     <li>🌱 I’m currently learning: <strong>ReactJS - Python - C#</strong></li>
     <li>📫 Connect with me on: </li>
