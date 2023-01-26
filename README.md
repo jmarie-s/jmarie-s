@@ -21,7 +21,6 @@ You can click the Preview link to take a look at your changes.
   </div>
   <br />
   <p>💬 Ask me about:</p>
-<!--       <strong>HTML - CSS - JavaScript - SQL</strong></li> -->
   <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -60,12 +59,12 @@ You can click the Preview link to take a look at your changes.
 </div>
 <div align="center">
   <hr>
-  <h3 align="left">Recommended Learning resources</h3>
-<!--     <img src="/images/html_css_js.png" alt="htmlCssJs" width="140" height="60">
-    <img src="/images/python.png" alt="python" width="70" height="60">
-    <img src="/images/sql.png" alt="sql" width="70" height="60">
-    <img src="/images/cSharp.png" alt="c#" width="70" height="60">
-    <img src="/images/docker.png" alt="docker" width="70" height="60"> -->
+  <h3 align="left">Recommended learning resources</h3>
+    <img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white" alt="codingame"/>
+    <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp"/>
+    <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDNWebDocs"/>
+    <img src="https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white" alt="Pluralsight"/>
+    <img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" alt="Scrimba"/>
 </div>
 <div>
   <hr>
