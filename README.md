@@ -43,9 +43,8 @@ You can click the Preview link to take a look at your changes.
        <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/>
       <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" alt="MIRO"/>
     </div>
-    
-    <li>📫 Connect with me on: </li>
   </ul>
+  <p>📫 Connect with me on: </p>
   <div align="center">
     <a href="https://www.linkedin.com/in/jeiya-marie-s-12541b188"><img src="/images/linkedIn.png" alt="linkedInLogo" width="70" height="60"></a>
     &nbsp
