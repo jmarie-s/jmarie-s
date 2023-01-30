@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
   </section>
   <section>
     <hr>
-    <h3 align="left">Recommended learning resources</h3>
+    <h3 align="left">📚 Recommended learning resources</h3>
       <div>
         <img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white" alt="codingame"/>
       </div>
@@ -78,14 +78,14 @@ You can click the Preview link to take a look at your changes.
   </section>
   <section>
     <hr>
-    <h3 align="left">Certifications</h3>
-    <!--START_SECTION:badges-->
-    <!--END_SECTION:badges-->
+    <h3 align="left">🏆 Certifications</h3>
     <a href="https://www.credly.com/badges/53fe4f3a-7989-48c2-8187-c01583126263/public_url">GitHub Actions</a>
+    <a href="https://www.credly.com/badges/39f98084-93c1-4148-93a5-63830f78e21e/public_url"> AZ-900: Micosoft Azure Fundamentals</a>
+    <a href="https://www.credly.com/badges/4b1c5782-7566-48bb-8ae6-3399c917e13e/public_url"> SC-900: Microsoft Security, Compliance and Identity Fundamentals</a>
   </section>
   <section>
     <hr>
-    <h3>Statistics</h3>
+    <h3>📈 Statistics</h3>
     <a href="https://github-readme-stats.vercel.app/api?username=jmarie-s&count_private=true&theme=apprentice"><img alt="jmarie-s's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=jmarie-s&count_private=true&theme=apprentice"/></a>
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jmarie-s&layout=compact&theme=apprentice"><img alt="jmarie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmarie-s&layout=compact&theme=apprentice"/></a>
   </section>
