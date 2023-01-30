@@ -79,9 +79,15 @@ You can click the Preview link to take a look at your changes.
   <section>
     <hr>
     <h3 align="left">🏆 Certifications</h3>
-    <a href="https://www.credly.com/badges/53fe4f3a-7989-48c2-8187-c01583126263/public_url">GitHub Actions</a>
-    <a href="https://www.credly.com/badges/39f98084-93c1-4148-93a5-63830f78e21e/public_url"> AZ-900: Micosoft Azure Fundamentals</a>
-    <a href="https://www.credly.com/badges/4b1c5782-7566-48bb-8ae6-3399c917e13e/public_url"> SC-900: Microsoft Security, Compliance and Identity Fundamentals</a>
+    <div>
+      <a href="https://www.credly.com/badges/53fe4f3a-7989-48c2-8187-c01583126263/public_url">GitHub Actions</a>
+    </div>
+    <div>
+      <a href="https://www.credly.com/badges/39f98084-93c1-4148-93a5-63830f78e21e/public_url"> AZ-900: Micosoft Azure Fundamentals</a>
+    </div>
+    <div>
+      <a href="https://www.credly.com/badges/4b1c5782-7566-48bb-8ae6-3399c917e13e/public_url"> SC-900: Microsoft Security, Compliance and Identity Fundamentals</a>
+    </div>
   </section>
   <section>
     <hr>
