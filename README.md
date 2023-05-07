@@ -32,8 +32,9 @@ You can click the Preview link to take a look at your changes.
     <p>🌱 I’m currently learning:</p>
     <div>
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CSharp"/>
+      <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="Dotnet"/>
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/ alt="Postgresql"/>
+     
     </div>
     </br>
     <p>💻 Have some experience using:</p>
@@ -61,7 +62,7 @@ You can click the Preview link to take a look at your changes.
     <hr>
     <h3 align="left">📚 Recommended learning resources</h3>
       <div>
-        <img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white" alt="codingame"/>
+        <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" alt="codeacademy"/>
       </div>
       <div>
         <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp"/>
