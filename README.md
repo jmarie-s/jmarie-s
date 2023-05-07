@@ -34,7 +34,6 @@ You can click the Preview link to take a look at your changes.
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CSharp"/>
       <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="Dotnet"/>
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
-     
     </div>
     </br>
     <p>💻 Have some experience using:</p>
